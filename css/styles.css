@@ -1,0 +1,103 @@
+.card {
+  height: 400px;
+  width: 350px;
+  position: relative;
+  right: auto;
+  left: auto;
+  bottom: 1925px;
+  background-color: white;
+  margin: 100px 630px 100px 630px;
+  border-radius: 12px;
+  text-align: center;
+    display: inline-block;
+}
+body{
+  padding: 0;
+  margin: 0;
+  background-color: white;
+}
+
+.maindiv {
+  position: absolute;
+  align-content: center;
+  width: 1440px;
+  background-color: darkcyan;
+  background-color: hsl(185, 75%, 39%);
+  height: 700px;
+  font-family: 'Kumbh Sans', serif;
+}
+.topcircle{
+  display: inline-block;
+position: relative;
+right: 200px;
+bottom: 500px;
+margin-right: 700px;
+  padding: 0;
+}
+.bottomcircle{
+
+  position: relative;
+  bottom: 450px;
+  left: 200px;
+  padding: 0;
+  margin: 0;
+  float: right;
+}
+
+.cardbg {
+  border-radius: 12px 12px 0 0;
+}
+
+.vicimg {
+  border: solid;
+  border-radius: 50%;
+  border-color: white;
+  position: relative;
+  bottom: 50px;
+}
+
+.vicname {
+  padding-top: 0;
+  padding-bottom: 0;
+  position: relative;
+  bottom: 50px;
+}
+
+.london {
+  position: relative;
+  bottom: 60px;
+  opacity: 0.6;
+}
+
+.age {
+  opacity: 0.4;
+}
+
+.followes {
+  padding: 0;
+  position: relative;
+  line-height: 0.3;
+  right: 95px;
+}
+
+.likes {
+  padding: 0;
+  position: relative;
+  line-height: 0.3;
+  bottom: 48px;
+}
+
+.photos {
+  padding: 0;
+  position: relative;
+  line-height: 0.3;
+  left: 95px;
+  bottom: 96px;
+}
+
+.a {
+  padding: 0;
+}
+.b{
+  opacity: 0.6;
+}
